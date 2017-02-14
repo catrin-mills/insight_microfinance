@@ -1,2 +1,2 @@
 # insight_microfinance
-Predict loan risk for microfinance company
+Predict loan risk for microfinance company.
